@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mattioli_RollTheDice</string>
+    <string name="guess_the_secret_number">Guess the secret number!</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guess_the_secret_number">Indovina il numero segreto!</string>
+</resources>
